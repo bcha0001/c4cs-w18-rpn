@@ -18,7 +18,7 @@ operators = {
 
 	#"Implement additional calculator key."
 	'%':percentage,
-	'^':operator.pow,
+	#'^':operator.pow,
 	'.':operator.floordiv,
 
 }
